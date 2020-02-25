@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment6_MobileProgramming_Braford</string>
+    <string-array name="contact_Name">
+        <item>Dad</item>
+        <item>Mom</item>
+        <item>Micah</item>
+    </string-array>
+    <string-array name="contact_Number">
+        <item>2182563097</item>
+        <item>7152222420</item>
+        <item>2182447772</item>
+    </string-array>
+</resources>
